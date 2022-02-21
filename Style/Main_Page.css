@@ -25,17 +25,9 @@ body {
 
 }
 
-#pythonimage {
-    display: block;
-    width: 50%;
-    margin-top: 5em;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 #Homepage-Image {
     display: block;
-    width: 50%; 
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
 }
